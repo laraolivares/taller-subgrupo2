@@ -1,4 +1,5 @@
 body {
+    text-align: center;
     background: linear-gradient(to right, #78a8df, #ced4dd); /* Degradado de dos colores */
     padding: 20px;
 }
@@ -18,3 +19,21 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+
+
+h1{
+    font-weight: 300px;
+    font-size: 70px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2{
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
