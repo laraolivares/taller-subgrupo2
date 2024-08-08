@@ -1,5 +1,6 @@
 body {
     background-color: rgb(255, 255, 165);
+    text-align: center;
 }
 
 .image{
@@ -16,4 +17,20 @@ body {
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
+}
+
+h1{
+    font-weight: 300px;
+    font-size: 70px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2{
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
