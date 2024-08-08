@@ -1,6 +1,7 @@
 body {
-    background-color: rgb(255, 255, 165);
     text-align: center;
+    background: linear-gradient(to right, #78a8df, #ced4dd); /* Degradado de dos colores */
+    padding: 20px;
 }
 
 .image{
@@ -20,6 +21,7 @@ body {
     box-shadow: 2px 3px #888888;
 }
 
+
 h1{
     font-weight: 300px;
     font-size: 70px;
@@ -35,3 +37,4 @@ p{
     font-size: 25px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
