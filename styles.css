@@ -5,9 +5,10 @@ body {
 }
 
 .image{
-    border: 5px solid green;
+    border: 5px solid black;
     border-radius: 10px;
     height: 400px;
+    object-position: center;
 }
 
 .link-button {
